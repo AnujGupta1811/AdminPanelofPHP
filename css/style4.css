@@ -1,0 +1,128 @@
+body{
+	margin:0;
+}
+.maincontainer{
+	margin:auto;
+	width:1140px;
+}
+.maincontainer1{
+	width:1140px;
+	height:630px;
+	margin:auto;	
+}
+.container{
+	background-color:blue;
+	width:100%;
+	height:30px;
+}
+.date{
+	width:1140px;
+	margin:auto;
+	color:white;
+	font-family:arial;
+	font-size:13px;
+	line-height:30px;
+	font-weight:bold;
+}
+.section{
+	width:230px;
+	height:560px;
+	float:left;
+}
+.section1{
+	width:910px;
+	height:560px;
+	float:left;
+}
+.leftmenu{
+	font-family:arial;
+	font-size:13px;
+	list-style:none;
+	margin:0;
+	padding:0;
+	border:solid 1px #CCC;
+	width:180px;
+	border-top:none;
+}
+.leftmenu li{
+	border-bottom:solid 1px #CCC;
+	padding:15px;
+}
+.leftmenu li:nth-child(1){
+	padding-top:40px;
+}
+.leftmenu li:nth-child(odd){
+	font-weight:bold;
+}
+.leftmenu li:nth-child(even){
+	border-bottom:solid 2px #CCC;
+}
+.pm{
+	font-family:arial;
+	font-size:16px;
+	font-weight:bold;
+	border-bottom:solid 1px #CCC;
+	width:700px;
+}
+.logintable2{
+	font-family:arial;
+	font-size:13px;
+	border:solid 1px #CCC;
+	width:100%;
+	border-collapse:collapse;
+}
+.logintable2 tr{
+	border-bottom:solid 1px #CCC;
+}
+.logintable2 tr:nth-child(1){
+	font-weight:bold;
+	background-color:#EEE;
+}
+.logintable2 td{
+	padding:5px;
+}
+.logintable3{
+	font-family:arial;
+	font-size:13px;
+	border:solid 1px #CCC;
+	width:100%;
+	border-collapse:collapse;
+}
+.logintable3 td, .logintable3 th{
+	border:solid 1px #CCC;
+	text-align:center;
+	padding:3px;
+}
+.clickhere{
+	text-align:center;
+	border:solid 1px #CCC;
+	font-family:arial;
+	font-size:13px;
+}
+.c{
+	background-color:grey;
+}
+.logintable1{
+	width:540px;
+}
+.logintable3{
+	clear:both;	
+}
+.maincontainer2{
+	width:100%;
+	height:30px;
+	background-color:blue;
+}
+.button1{
+	float:right;
+	background-color:#EEE;
+	color:black;
+}
+.button2{
+	background-color:#00146A;
+	color:white;
+}
+.button3{
+	background-color:#00146A;
+	color:white;
+}
